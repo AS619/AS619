@@ -14,13 +14,13 @@ I'm an undergraduate electrical, electronic,and telecommunication engineer with 
 ### My Projects
 
 - 🚀 I have developed some projects, and I'm excited to share them so others can make use of them.
-     * **Automatic Watering Schedule for Chili Plants:**🌿
+     * Automatic Watering Schedule for Chili Plants:🌿
        - Based on the realtime environmental data , created a Supervised machine learning model to predict water requrement of the plants.
 
-     * **Plant Health Status Predictor:**⚙️
+     * Plant Health Status Predictor:⚙️
        - Implemented an Unsupervised machine learning model that predicts the health status of plants based on images.
 
-     * **Biogas Production Predictor in a Biogas System:**🚂
+     * Biogas Production Predictor in a Biogas System:🚂
        - Developed a ML model using environmental data in the biogas system.
 
 ### Get in Touch
