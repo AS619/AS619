@@ -1,7 +1,7 @@
 ## Hi there!👋 
 
 Welcome to my GitHub profile! I'm Ayesha Sandeepani.😊
-I'm an undergraduate electrical, electronic,and telecommunication engineer with a passion for technology and a focus on data science and artificial intelligence.
+I'm an undergraduate electrical, electronic and telecommunication engineer with a passion for technology and a focus on data science and artificial intelligence.
 
 ### About Me
 
