@@ -5,8 +5,8 @@ I'm an undergraduate electrical, electronic and telecommunication engineer with 
 
 ### About Me
 
-- 👨‍💻 Undergraduate Electrical, Electronic, and Telecommunication Engineer at SEUSL.
-- 🌐 Exploring the fascinating realms of Data Science, AI, and Machine Learning.
+- 👨‍💻 Undergraduate Electrical, Electronic and Telecommunication Engineer at SEUSL.
+- 🌐 Exploring the fascinating realms of Data Science, AI and Machine Learning.
 - 💞️ Done some projects that involve data-driven solutions and innovative applications of AI.
 - 👀 Currently learning deeper into machine learning algorithms and data analysis techniques.
 - 🎓 Always I'm eager to learn and apply new concepts.
